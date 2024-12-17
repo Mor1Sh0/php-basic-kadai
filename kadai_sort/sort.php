@@ -29,8 +29,6 @@
 
         sort_2way($nums, false);
 
-
-
         ?>
     </p>
 </body>
